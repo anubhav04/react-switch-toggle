@@ -10,8 +10,8 @@ This module exposes component for CKEditor 5 for react:
 
 
 ## Installation
-    npm install --save ckeditor-react-component
-    yarn add ckeditor-react-component
+    npm install --save react-switch-toggle
+    yarn add react-switch-toggle
 
 ## Fully Customisable
 * It is fully customisable, you can customise the wrapper, just edit index.js file according to you need
@@ -22,15 +22,15 @@ import React, { Component } from 'react';
 import ReactSwitch from 'ckeditor-react';
 
 class ckeditor extends Component{
-  onChange = (event, editor) => {
-    console.log( { event, editor }
+  onChange = () => {
+    console.log( 'status changed' );
   }
   render(){
     return(
       <ReactSwitch
       style={{height: '100px'}} // your custom styles
       className="test" // your custom className
-      onChange={this.onChange} // function to change switch status
+      onChange={() => this.onChange()} // function to change switch status
       isChecked={this.state.checked} // checked status of Switch
       />
     );
