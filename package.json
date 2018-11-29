@@ -1,6 +1,6 @@
 {
   "name": "react-switch-toggle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Toggle Switch for ReactJs",
   "main": "index.js",
   "author": "anubhav.techanthusiast@gmail.com",
@@ -9,5 +9,13 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
-  }
+  },
+  "keywords":[
+    "switch",
+    "toggle switch",
+    "reactjs toggle switch",
+    "toggle switch reactjs",
+    "react toggle switch",
+    "toggle switch react"
+  ]
 }
