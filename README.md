@@ -1,14 +1,12 @@
-Ckeditor For ReactJs
+Toggle Switch For ReactJs
 ====================
 
 This module exposes component for CKEditor 5 for react:
 
-* Get a JSON tree/structure of a folder (including subdirectories and files), note that you have specify the `filesystem` to use yourself. You can get JSON tree for a directory with `n` levels of children.
-* Traverse a structure, giving callbacks to execute when a file or folder is found.
-
-* It gives you all the details of the file and folder including date created, size in actual units, file extension and local path.
-
-* You can use to it get only size of file you are uploading: Size Units: ['bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB']
+* Get a toggle switch like and ON/OFF for your UI
+* Can use it to toggle status
+* Fully Customisable
+* Functional Component
 
 
 ## Installation
