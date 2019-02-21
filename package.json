@@ -1,6 +1,6 @@
 {
   "name": "react-switch-toggle",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Toggle Switch for ReactJs",
   "main": "index.js",
   "author": "anubhav.techanthusiast@gmail.com",
@@ -21,6 +21,8 @@
     "toggle switch reactjs",
     "react toggle switch",
     "toggle switch react",
-    "swtich toggle"
+    "swtich toggle",
+    "toggle switch for react",
+    "toggle switch for reactjs"
   ]
 }
